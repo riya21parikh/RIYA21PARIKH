@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya21parikh&label=Profile%20views&color=0e75b6&style=flat" alt="riya21parikh" /> </p>
 
-- 🌱 I’m currently learning **R, pytorch, and tensorflow for machine learning applications!**
+- 🌱 I’m currently learning **julia, pytorch, and tensorflow for machine learning applications!**
 
 - 💬 Ask me about **my rideshare price prediciton project that used 6 different machine learning models!**
 
