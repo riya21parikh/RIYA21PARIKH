@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Machine Learning Engineer · Data Scientist · Technical Project Manager</h3>
 
 <p align="center">
-  <strong>Greater Boston Area · Cambridge/Boston, MA</strong>
+  <strong>Greater Boston Area · Cambridge/Boston, MA · Open to NYC, NY roles </strong>
 </p>
 
 <p align="left">
