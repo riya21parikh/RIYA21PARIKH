@@ -23,8 +23,6 @@
     <strong>Hands-on with:</strong> Julia, Python, PyTorch, TensorFlow, scikit-learn, and modern optimization methods for ML.
   </li>
   <li>
-  </li>
-  <li>
     <strong>Reach me:</strong> <a href="mailto:riya21parikh@gmail.com">riya21parikh@gmail.com</a>
   </li>
 
