@@ -14,23 +14,20 @@
     <strong>Current:</strong> Master of Business Analytics (MBAn) candidate at MIT Sloan, focusing on machine learning, optimization, and data-driven decision-making.
   </li>
   <li>
-    <strong>Background:</strong> B.A. in Data Science from Boston University, graduated <em>summa cum laude</em>.
+    <strong>Background:</strong> B.S. in Data Science from Boston University, graduated <em>summa cum laude</em> in 3 years.
   </li>
   <li>
-    <strong>Interests:</strong> End-to-end machine learning systems, model interpretability, experimentation, and technical program management for AI/ML products.
+    <strong>Interests:</strong> End-to-end machine learning systems, model interpretability, experimentation, and technical program management for AI/ML products. 
   </li>
   <li>
     <strong>Hands-on with:</strong> Julia, Python, PyTorch, TensorFlow, scikit-learn, and modern optimization methods for ML.
   </li>
   <li>
-    <strong>Projects:</strong> Built a rideshare price prediction pipeline comparing six different machine learning models, from feature engineering through evaluation and deployment-ready insights.
   </li>
   <li>
     <strong>Reach me:</strong> <a href="mailto:riya21parikh@gmail.com">riya21parikh@gmail.com</a>
   </li>
-  <li>
-    <strong>Resume:</strong> <a href="https://tinyurl.com/rparikhresume" target="_blank">View my resume</a>
-  </li>
+
 </ul>
 
 <h3 align="left">Connect with me</h3>
